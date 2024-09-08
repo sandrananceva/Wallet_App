@@ -1,0 +1,1 @@
+export { VuesaxBoldTickSquare } from "./VuesaxBoldTickSquare";
